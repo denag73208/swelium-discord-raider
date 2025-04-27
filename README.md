@@ -1,4 +1,5 @@
 # SWELIUM Raider
+SWELIUM is a Discord Raider | a Discord raider with various features Its ALWAYS UpToDate
 
 ## 👾 Features
 <details>
