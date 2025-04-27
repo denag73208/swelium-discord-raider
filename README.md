@@ -52,7 +52,7 @@
 </details>
 
 ## ⭐ Star War
-[![Star History Chart](https://api.star-history.com/svg?repos=Tips-Discord/SWELIUM&theme=dark)](https://api.star-history.com/svg?repos=Tips-Discord/SWELIUM)
+[![Star History Chart](https://api.star-history.com/svg?repos=toitenlavortex/SWELIUM&theme=dark)](https://api.star-history.com/svg?repos=Tips-Discord/SWELIUM)
 
 ## ⚠️ Disclaimer
 **DISCLAIMER:** This repository is intended for **EDUCATIONAL PURPOSES ONLY**. The author takes no responsibility for any issues that arise from using this tool. By using this tool, you acknowledge and accept this disclaimer.
