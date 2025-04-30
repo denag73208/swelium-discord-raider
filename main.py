@@ -20,7 +20,7 @@ import uuid
 import websocket
 from hashlib import md5 as antiskid
 session = tls_client.Session(client_identifier="chrome_128",random_tls_extension_order=True)
-
+repo_url = "https://github.com/toitenlavortex/SWELIUM"
 def get_random_str(length):
     return "".join(random.choice(string.ascii_letters + string.digits) for _ in range(length))
 
