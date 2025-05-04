@@ -22,7 +22,6 @@ import websocket
 
 
 session = tls_client.Session(client_identifier="chrome_128",random_tls_extension_order=True)
-kernel32 = ctypes.windll.kernel32
 def get_random_str(length):
     return "".join(random.choice(string.ascii_letters + string.digits) for _ in range(length))
 
