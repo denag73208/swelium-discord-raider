@@ -19,7 +19,7 @@ import tls_client
 import uuid
 import websocket
 
-
+# gay
 
 session = tls_client.Session(client_identifier="chrome_128",random_tls_extension_order=True)
 def get_random_str(length):
