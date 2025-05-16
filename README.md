@@ -1,8 +1,6 @@
 # SWELIUM Raider
 SWELIUM is a Discord Raider | a Discord raider with various features Its ALWAYS UpToDate
 
-Download: https://github.com/toitenlavortex/SWELIUM/archive/refs/heads/main.zip
-
 ## 👾 Features
 <details>
 <summary>Click to expand</summary>
